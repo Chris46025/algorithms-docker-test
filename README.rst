@@ -7,8 +7,8 @@ Getting started
 	cd into algorithms-docker-test and docker pull 
 
 		chris46025/django_test
+		chris46025/psql-test
 
 	Run docker-compose up
-
 		Code will be running at (boot2docker ip):8000
 
