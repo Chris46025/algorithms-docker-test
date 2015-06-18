@@ -1,5 +1,6 @@
 Django
 djangorestframework
+pygments
 django-filter
 markdown
 psycopg2
