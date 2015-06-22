@@ -1,8 +1,7 @@
 db:
-  image: postgres
+  image: chris46025/psql-test
 web:
   build: .
-  command: python manage.py migrate
   command: python manage.py runserver 0.0.0.0:8000
   volumes:
     - .:/code

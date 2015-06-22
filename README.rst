@@ -9,6 +9,7 @@ Getting started
 		chris46025/django_test
 		chris46025/psql-test
 
-	Run docker-compose up
+	Run ./startup.sh
+	
 		Code will be running at (boot2docker ip):8000
 
